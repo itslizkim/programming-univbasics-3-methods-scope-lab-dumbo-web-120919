@@ -9,7 +9,7 @@ def toadstool
 end
 
 def link
-  quote = "It's Too Dangerous To Go Alone! Take This."
+  quote = "It's Dangerous To Go Alone! Take This."
   puts quote
 end
 
